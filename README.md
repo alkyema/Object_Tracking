@@ -1,19 +1,4 @@
 
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        pre {
-            background: #f4f4f4;
-            padding: 10px;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-        }
-    </style>
 </head>
 <body>
 
