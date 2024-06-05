@@ -19,8 +19,6 @@
             <li><a href="#object-detection-using-yolo">Object Detection using YOLO</a></li>
         </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
 </ul>
 
 <h2 id="introduction">Introduction</h2>
